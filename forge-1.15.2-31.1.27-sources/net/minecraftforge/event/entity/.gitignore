@@ -1,0 +1,15 @@
+/EntityEvent$CanUpdate.class
+/EntityEvent$EnteringChunk.class
+/EntityEvent$EntityConstructing.class
+/EntityEvent$EyeHeight.class
+/EntityEvent.class
+/EntityJoinWorldEvent.class
+/EntityMobGriefingEvent.class
+/EntityMountEvent.class
+/EntityStruckByLightningEvent.class
+/EntityTravelToDimensionEvent.class
+/PlaySoundAtEntityEvent.class
+/ProjectileImpactEvent$Arrow.class
+/ProjectileImpactEvent$Fireball.class
+/ProjectileImpactEvent$Throwable.class
+/ProjectileImpactEvent.class

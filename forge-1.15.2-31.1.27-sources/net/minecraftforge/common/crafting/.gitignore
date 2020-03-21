@@ -1,0 +1,17 @@
+/CompoundIngredient$Serializer.class
+/CompoundIngredient.class
+/ConditionalAdvancement$Builder.class
+/ConditionalAdvancement.class
+/ConditionalRecipe$Builder.class
+/ConditionalRecipe$Finished.class
+/ConditionalRecipe$Serializer.class
+/ConditionalRecipe.class
+/CraftingHelper.class
+/IIngredientSerializer.class
+/IRecipeContainer.class
+/IShapedRecipe.class
+/NBTIngredient$Serializer.class
+/NBTIngredient.class
+/StackList.class
+/VanillaIngredientSerializer.class
+/package-info.class

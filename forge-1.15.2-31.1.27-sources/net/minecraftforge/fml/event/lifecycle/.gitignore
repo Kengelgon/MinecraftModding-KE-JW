@@ -1,0 +1,12 @@
+/FMLClientSetupEvent.class
+/FMLCommonSetupEvent.class
+/FMLDedicatedServerSetupEvent.class
+/FMLFingerprintViolationEvent.class
+/FMLLoadCompleteEvent.class
+/FMLModIdMappingEvent$ModRemapping.class
+/FMLModIdMappingEvent.class
+/GatherDataEvent$DataGeneratorConfig.class
+/GatherDataEvent.class
+/InterModEnqueueEvent.class
+/InterModProcessEvent.class
+/ModLifecycleEvent.class

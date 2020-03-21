@@ -1,0 +1,15 @@
+/BakedQuadBuilder.class
+/BlockInfo.class
+/IVertexConsumer.class
+/IVertexProducer.class
+/LightUtil$ItemConsumer.class
+/LightUtil$ItemPipeline.class
+/LightUtil.class
+/QuadGatheringTransformer.class
+/TRSRTransformer.class
+/TransformerConsumer.class
+/VertexBufferConsumer.class
+/VertexLighterFlat.class
+/VertexLighterSmoothAo.class
+/VertexTransformer.class
+/package-info.class
